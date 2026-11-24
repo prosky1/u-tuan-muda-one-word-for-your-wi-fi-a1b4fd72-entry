@@ -7,7 +7,7 @@ The word is the whole entry: one word, no explanation, no extra text.
 
 import os
 
-WORD = "haunted"
+WORD = "gaslighting"
 
 
 def validate(word: str) -> str:
